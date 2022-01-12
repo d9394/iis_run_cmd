@@ -1,2 +1,3 @@
 # iis_run_cmd
-run a shell command in iis by a .asp web page click button
+a sample about: 
+  run a shell(bat) command in iis6 by using a .asp web page click button
